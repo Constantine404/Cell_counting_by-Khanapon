@@ -1,5 +1,5 @@
 # Cell_counting_by-Khanapon
-# การอธิบายฟังก์ชันที่ใช้ในโปรเจกต์
+
 ![Example image](bloodcell.jpg)
 ## 1. โหลดและตรวจสอบภาพ
 ```python
